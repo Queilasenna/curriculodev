@@ -30,7 +30,7 @@ body {
 
 .container .left_side {
     position: relative;
-    background: #003147;
+    background: #900020;
     padding: 20px;
 }
 
@@ -103,7 +103,7 @@ body {
     display: inline-block;
     width: 30px;
     font-size: 18px;
-    color: #03a9f4;
+    color: #fff;
 }
 
 .InfoContato ul li span {
